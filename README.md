@@ -1,4 +1,4 @@
-# 🚗 Automotive Data Analysis – Excel Dashboard  
+<img width="1826" height="657" alt="Screenshot 2026-04-14 134341" src="https://github.com/user-attachments/assets/981036c0-43b7-4aca-a7ae-23e5d5683eee" /># 🚗 Automotive Data Analysis – Excel Dashboard  
 
 ## 📌 Project Overview  
 This project presents an interactive **Excel Dashboard** designed to analyze automotive sales data and generate meaningful business insights.  
@@ -9,9 +9,8 @@ The dashboard provides a comprehensive view of **sales, profit, mileage, custome
 
 ## 📸 Dashboard Preview  
 
-![Automotive Dashboard](images/dashboard.png)
+<img width="1826" height="657" alt="Dashboard " src="https://github.com/user-attachments/assets/cc1c7cea-8bea-4780-ab38-0f01abd828d2" />
 
-![Uploading Screenshot 2026-04-14 134341.png…]()
 
 ---
 
